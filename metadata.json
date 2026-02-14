@@ -1,0 +1,6 @@
+{
+  "name": "neolist",
+  "description": "A sleek, responsive, and modern to-do list application named neolist, built with Material 3 design principles. Features include nested checklists, AI-powered sub-task suggestions, and secure cloud sync with Firebase.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
